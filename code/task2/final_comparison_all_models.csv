@@ -1,0 +1,6 @@
+Model,Test Accuracy,Macro F1,Macro Precision,Macro Recall,Training Time (s),Total Params,Model Size (MB)
+SimpleCNN,0.5081,0.4046,0.4016,0.4901,713.1,"390,661",1.49
+MobileNetV2,0.7776,0.6821,0.655,0.7341,816.7,"2,230,277",8.64
+ResNet50,0.7657,0.6676,0.6383,0.732,1028.9,"23,518,277",89.92
+EfficientNet-B0,0.8065,0.71,0.6806,0.7534,852.2,"4,013,953",15.47
+AttenLeafNet,0.8159,0.7074,0.6873,0.7375,2232.3,"2,759,352",10.66
