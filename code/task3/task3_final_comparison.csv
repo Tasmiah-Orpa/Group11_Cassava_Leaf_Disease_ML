@@ -1,0 +1,5 @@
+Model,Macro F1,Accuracy,Params
+Best Baseline (EfficientNet-B0),0.7186,0.8224,"4,013,953"
+First Model (AttenLeafNet - Task 2),0.7074,0.8159,"2,759,352"
+Final Model (AttenLeafNetV2 - Task 3),0.7298,0.8442,"4,873,268"
+"Related Work Best (RIPEA+EfficientNetB4, reported)",N/A (accuracy only reported in paper),"~0.9306 (reported, different split/protocol)",N/A

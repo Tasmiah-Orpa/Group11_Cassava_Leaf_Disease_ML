@@ -1,5 +1,5 @@
-Model          , Macro F1 (Primary Metric), Macro Recall, Macro Precision, Test Accuracy, Training Time (s), Total Params, Model Size (MB)
-EfficientNet-B0,                    0.71  ,       0.7534,          0.6806,        0.8065,             852.2, "4,013,953" ,           15.47
-MobileNetV2    ,                    0.6821,       0.7341,          0.655 ,        0.7776,             816.7, "2,230,277" ,            8.64
-ResNet50       ,                    0.6676,       0.732 ,          0.6383,        0.7657,            1028.9, "23,518,277",           89.92
-SimpleCNN      ,                    0.4046,       0.4901,          0.4016,        0.5081,             713.1, "390,661"   ,            1.49
+Model,Macro F1 (Primary Metric),Macro Recall,Macro Precision,Test Accuracy,Training Time (s),Total Params,Model Size (MB)
+EfficientNet-B0,0.7186,0.745,0.6977,0.8224,662.6,"4,013,953",15.47
+ResNet50,0.7052,0.7464,0.6784,0.8093,1033.8,"23,518,277",89.92
+MobileNetV2,0.6884,0.7327,0.6619,0.7907,560.8,"2,230,277",8.64
+SimpleCNN,0.5289,0.6029,0.5016,0.6255,325.5,"390,661",1.49
